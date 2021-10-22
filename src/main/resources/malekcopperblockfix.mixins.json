@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "net.malek.copperblockfix.mixin.OxidizableBlockMixin"
   ],
   "injectors": {
     "defaultRequire": 1
